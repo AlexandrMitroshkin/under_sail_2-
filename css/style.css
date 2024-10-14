@@ -1,0 +1,84 @@
+body{
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    background: #FDFDFF;
+    color:#163152;
+}
+
+.nav_list_item a {
+    font-size: 14px;
+    line-height: 18px;
+    color:#163152;
+    text-decoration:none ;
+    text-transform: uppercase;
+
+}
+
+.hero h1{
+    font-size: 44px;
+    line-height: 60px;
+    font-style:italic ;
+    text-transform: uppercase;
+}
+
+.article_first time , .article_second time{
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.article_first h2  , .article_second h2{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 34px;
+    text-decoration: underline  ;
+    text-decoration-color:#00C6BD ;
+    text-underline-offset: 15px;
+}
+
+.contacts h2{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 34px;
+}
+
+.contacts_list_item h3{
+    font-weight: 700;
+    line-height: 16px;
+}
+
+.contacts_list_item a {
+    line-height: 22px;
+    color:#163152;
+    text-decoration:none ;
+}
+
+.contacts_list_item address{
+    line-height:22px ;
+}
+
+.extra_information li h2{
+    font-weight: 700;
+    font-size: 14px;
+    line-height:18px;
+    text-transform: uppercase;
+}
+
+.title_item_extra_information a{
+    font-size: 14px;
+    line-height: 16px;
+    color:#163152;
+    text-decoration:none ;
+}
+
+.policy a{
+    font-size: 10px;
+    line-height: 12px;
+    color:#163152;
+    text-decoration:none
+}
+
+.copyring {
+    font-size: 10px;
+    line-height: 12px;
+}

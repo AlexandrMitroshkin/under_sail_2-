@@ -23,22 +23,14 @@ body{
     text-transform: uppercase;
 }
 
-.article_first time , .article_second time{
-    font-size: 14px;
+.under_hero_article_second_flex_element1_datetime , .under_hero_article_first_flex_element1_datetime{
+    font-size:14px;
     line-height: 18px;
 }
 
-.article_first h2  , .article_second h2{
-    font-weight: 700;
-    font-size: 24px;
-    line-height: 34px;
-    text-decoration: underline  ;
-    text-decoration-color:#00C6BD ;
-    text-underline-offset: 15px;
+.under_hero_article_first_flex_element1 h2 , .under_hero_article_second_flex_element1 h2{ 
+    line-height:34px;
 }
-
-
-
 
 
 /* news!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
@@ -158,9 +150,13 @@ body{
     text-decoration:none ;
 }
 
-.policy a{
+.policy{
     font-size: 10px;
     line-height: 12px;
+}
+
+.policy a{
+    font-size: 10px;
     color:#163152;
     text-decoration:none
 }

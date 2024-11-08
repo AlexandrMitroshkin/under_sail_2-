@@ -33,6 +33,37 @@ body{
 }
 
 
+
+
+/* rental!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.rental h2{
+    font-weight: 700;
+    font-size:24px;
+    line-height: 34px;
+}
+
+.rental_card h3{
+    font-weight: 700;
+    font-size: 20px;
+    line-height:23px ;
+}
+
+.rental_card p{
+    font-size: 14px;
+}
+
+.rental_card_mini-list{
+    font-size: 14px;
+    line-height: 19px;
+}
+
+.rental_card_flex_text1 , .rental_card_flex_text2{
+    font-weight:700 ;
+    font-size: 19px;
+    line-height: 21px;
+}
+
 /* news!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
 
 .news h2{
@@ -53,7 +84,7 @@ body{
     line-height:26px
 }
 
-.news_article_2 p{
+.text_in_news{
     font-size:18px;
     line-height:26px;
 }
@@ -64,25 +95,20 @@ body{
     line-height:26px
 }
 
+.news_article_2_text_4{
+    font-weight: 700;
+    font-size:26px;
+    line-height:36px;
+}
 
 .news_article_2_list_item{
     font-size:18px;
     line-height:26px;
 }
 
-.news_article_2_text_1 , .news_article_2_text_3{
-    font-size:18px;
-    line-height:26px;
-}
 
-.news_article_3_text_2{
+.news_article_3_flex_element_text_1{
     font-weight: 700;
-    font-size:26px;
-    line-height: 36px;
-}
-
-.news_article_3_flex_text_1{
-    font-weight: 700px;
     font-size:16px;
     line-height:19px;
 }

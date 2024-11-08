@@ -187,6 +187,129 @@ main{
 }
 
 
+/* rental!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.rental{
+    margin: 0;
+    margin-bottom: 120px;
+}
+
+.rental h2{
+    margin: 0;
+    margin-bottom:55px ;
+    margin-right:56px ;
+    text-decoration: underline ;
+    text-decoration-color:#00C6BD ;
+    text-decoration-thickness:2px ;
+    text-underline-offset: 15px;
+    text-underline-position:under;
+}
+
+.rental_cards{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0;
+    padding:0;
+    gap:30px;
+
+}
+
+.rental_card{
+    border:1px solid black;
+    width: 370px;
+    height: 487px;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.rental_card img{
+    margin: 0;
+    margin-bottom:21px ;
+}
+
+.rental_card h3{
+    margin: 0;
+    margin-bottom: 18px ;
+}
+
+.rental_card p{
+    margin: 0;
+    margin-bottom:15px ;
+}
+
+.rental_card_mini-list{
+    margin: 0;
+    padding:0;
+    margin-bottom:29px ;
+    margin-left: 18px;
+}
+
+.rental_card_mini-list li{
+    margin:0;
+    margin-bottom:4px;
+}
+
+.rental_card_mini-list li:last-child{
+    margin:0;
+}
+
+.rental_card_flex{
+    display: flex;
+    width: 310px;
+    height: 21px;
+    justify-content: space-between;
+}
+
+.rental_card_flex_text1{
+    margin: 0;
+}
+
+.rental_card_flex_text2{
+    margin: 0;
+}
+
+/* galary!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.galary{
+    margin: 0;
+    margin-bottom:120px ;
+}
+
+.galary h2{
+    margin: 0;
+    margin-bottom:55px ;
+    text-decoration: underline ;
+    text-decoration-color:#00C6BD ;
+    text-decoration-thickness:2px ;
+    text-underline-offset: 15px;
+    text-underline-position:under;
+    text-align: center;
+}
+
+.galary_flex{
+    display: flex;
+    gap:30px;
+}
+
+.galary_flex_list{
+    list-style: none;
+    margin:0 ;
+    padding:0;
+}
+
+.galary_flex_list_item{
+    margin: 0;
+    margin-bottom: 30px;
+
+}
+
+.galary_flex_list_item_link{
+    display: block;
+    box-sizing: border-box;
+    height: 150px;
+}
 
 
 
@@ -253,14 +376,14 @@ main{
     margin-bottom:8px ;
 }
 
-.news_article_3_text_1{
+.news_article_2_text_3{
     display: block;
     margin: 0;
     padding:0;
     margin-bottom:38px;
 }
 
-.news_article_3_text_2{
+.news_article_2_text_4{
     display: block;
     margin: 0;
     padding:0;
@@ -269,14 +392,14 @@ main{
     border-left:2px solid #00C6BD;
 }
 
-.news_article_3_text_3{
+.news_article_2_text_5{
     display: block;
     margin: 0;
     padding:0;
     margin-bottom: 47px;
 }
 
-.news_article_3_flex{
+.news_article_3{
     display:flex;
     margin: 0;
     padding:0;
@@ -318,8 +441,7 @@ main{
     justify-content: center;
 }
 
-.news_article_3_flex_text_1{
-    display: block;
+.news_article_3_flex_element_text_1{
     margin: 0;
     padding: 0;
     margin-bottom:9px ;
